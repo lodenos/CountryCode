@@ -1,0 +1,13 @@
+name: countrycode
+version: 0.1.0
+
+authors:
+  - lodenos <nikolaiilodenos@gmail.com>
+
+targets:
+  countrycode:
+    main: src/CountryCode.cr
+
+crystal: 0.35.1
+
+license: MIT
